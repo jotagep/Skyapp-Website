@@ -17,7 +17,7 @@
 		"../scss/layouts/_header.scss"
 	],
 	"sourcesContent": [
-		"/*\n    SkyApp Bootstrapp Sass Theme\n    Author: Jorge Garcia    \n    Version: 0.0.1\n*/\n\n/* BASE - Base styles, variables, mixins, etc */\n\n@import 'base/_variable.scss';\n@import 'base/_mixins.scss';\n@import 'base/_normalize.scss';\n@import 'base/_base.scss';\n\n/* MODULES - Individual site components */\n\n@import 'modules/_blocks.scss';\n@import 'modules/_buttons.scss';\n@import 'modules/_typography.scss';\n@import 'modules/_sections.scss';\n@import 'modules/_components.scss';\n    \n/* LAYOUTS - Page layout styles */\n\n@import 'layouts/_nav.scss';\n@import 'layouts/_footer.scss';\n@import 'layouts/_header.scss';\n\n",
+		"/*\n    SkyApp Bootstrapp Sass Theme\n    Author: Jorge Garcia\n    Version: 0.0.1\n*/\n\n/* BASE - Base styles, variables, mixins, etc */\n\n@import 'base/_variable.scss';\n@import 'base/_mixins.scss';\n@import 'base/_normalize.scss';\n@import 'base/_base.scss';\n\n/* MODULES - Individual site components */\n\n@import 'modules/_blocks.scss';\n@import 'modules/_buttons.scss';\n@import 'modules/_typography.scss';\n@import 'modules/_sections.scss';\n@import 'modules/_components.scss';\n\n/* LAYOUTS - Page layout styles */\n\n@import 'layouts/_nav.scss';\n@import 'layouts/_footer.scss';\n@import 'layouts/_header.scss';\n\n",
 		"",
 		"",
 		"",
